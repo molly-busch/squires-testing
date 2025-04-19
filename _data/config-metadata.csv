@@ -1,11 +1,16 @@
 field,display_name,browse_link,external_link
 recordtitle,Record Title,
-postercreator,Poster Creator,
+eventtitle,Event Title,
+eventtype,Event Type,
 eventdate,Event Date,
 eventlocation,Event Location,
-posterdescriptor,Poster Descriptor,true
-postertype,Poster Type
-postercreator,Poster Creator
-postercontributor,Poster Contributor
-eventorganizer,Event Organizer
-rightsinformation,Rights Information,,true
+eventcontributor,Event Contributor,
+eventorganizer,Event Organizer,
+postercreator,Poster Creator,
+postertype,Poster Type,
+posterdescription,Poster Description,
+fileformat,File Format,
+filesize,File Size,
+digitizationdate,Digitization Date,
+rightsinformation,Rights Information,
+rightsstatement,Rights Statement,
