@@ -14,7 +14,7 @@ url: https://molly-busch.github.io
 # on GitHub Pages it is your github repository's name prefixed with a /
 baseurl: /squires-testing
 # location of code, the full url to your github repository
-source-code: https://github.com/molly-busch/squires-testing
+source-code: https://github.com/molly-busch/squires-testing/tree/main
 
 ##########
 # SITE SETTINGS
