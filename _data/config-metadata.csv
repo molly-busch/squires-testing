@@ -1,5 +1,5 @@
 field,display_name,browse_link,external_link
-recordtitle,Record Title,
+title,Title,
 eventtitle,Event Title,
 eventtype,Event Type,
 eventdate,Event Date,
