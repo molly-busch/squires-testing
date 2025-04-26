@@ -1,5 +1,8 @@
 field,display_name
 title,Title
-date,Date
+eventdate,Event Date
 description,Description
-subject,Subjects
+postertype,Poster Type
+eventtype,Event Type
+posterdescriptors,Poster Descriptors
+eventlocation,Event Location
