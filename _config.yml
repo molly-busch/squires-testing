@@ -20,12 +20,12 @@ source-code: https://github.com/molly-busch/squires-testing/tree
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Squires Testing Site
+title: Squires Theater - Digital Poster Library
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: test site for poster collection
+tagline: Poster collection for Virginia Tech performances.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Test site for VT Poster Collection"
+description: "Digitized posters for student prodcutions and touring groups that took place at Virginia Tech"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Team - Sarah S. and Molly B.
 
