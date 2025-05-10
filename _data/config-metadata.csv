@@ -1,6 +1,7 @@
 field,display_name,browse_link,external_link
 title,Title,
 eventtitle,Event Title,
+description,Description,
 eventtype,Event Type,
 eventdate,Event Date,
 eventlocation,Event Location,
@@ -9,8 +10,8 @@ eventorganizer,Event Organizer,
 postercreator,Poster Creator,
 postertype,Poster Type,
 posterdescriptors,Poster Descriptors,
+language,Language,
 fileformat,File Format,
 filesize,File Size,
 digitizationdate,Digitization Date,
-rightsinformation,Rights Information,
-rightsstatement,Rights Statement
+rightsinformation,Rights Information
