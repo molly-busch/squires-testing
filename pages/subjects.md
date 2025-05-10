@@ -1,5 +1,5 @@
 ---
-title: Data Cloud
+title: Poster Descriptions
 layout: cloud
 permalink: /subjects.html
 # Default subject page is configured in "_data/theme.yml"
