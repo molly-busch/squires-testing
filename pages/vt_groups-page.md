@@ -11,6 +11,7 @@ This page contains information about Virignia Tech current and past musical perf
 
   They can be listened to on [Sound Cloud](https://soundcloud.com/vtjazz).
 
+{% include index/carousel.html title="The University Jazz Ensemble" %}
 
 ## The Audubon Quartet
   This classical string, quartet group started in 1974 at Marywood College (Scranton, PA) and Virginia Tech (Blacksburg, VA). The group had international acclaim and performed for Jimmy Carter at the White House in 1997 [(Wikipedia 2025)](https://en.wikipedia.org/wiki/Audubon_Quartet). The last concert for this group was performed in August 2011 at the Chautauqua Institution [(Wikipedia 2025)](https://en.wikipedia.org/wiki/Audubon_Quartet).
@@ -18,3 +19,8 @@ This page contains information about Virignia Tech current and past musical perf
 
 ##REFERENCES
 Wikipedia contributors. (2025, February 15). Audubon Quartet. Wikipedia. https://en.wikipedia.org/wiki/Audubon_Quartet
+
+{% include index/carousel.html title="Audubon Quartet" %}
+
+## Explore More Event Contributors
+{% include feature/cloud.html fields="eventcontributor" min=2 %}
