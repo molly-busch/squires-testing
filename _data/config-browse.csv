@@ -2,4 +2,4 @@ field,display_name,btn,hidden,sort_name
 title,Title,,
 eventtype,Event Type,
 postertype,Poster Type,
-posterdescriptors,Poster Descriptors
+posterdescription,Poster Description
