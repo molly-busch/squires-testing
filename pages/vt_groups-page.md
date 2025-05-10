@@ -33,5 +33,5 @@ Wikipedia contributors. (2025, February 15). Audubon Quartet. Wikipedia. https:/
 
 
 
-## Explore More Event Contributors
+## Explore More Event Contributors and Organizers
 {% include feature/cloud.html fields="eventcontributor;eventorganizer" min=2 %}
