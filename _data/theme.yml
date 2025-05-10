@@ -24,21 +24,21 @@ browse-buttons: true # true/false, adds previous/next arrows to item pages
 # SUBJECTS PAGE
 #
 description-fields: posterdescription # set the field to be featured in the cloud (if left blank, none will be generated)
-subjects-min: 1 # min size for subject cloud, too many terms = slow load time!
-subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
+description-min: 1 # min size for subject cloud, too many terms = slow load time!
+description-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 ##########
 # EVENTTYPE PAGE
 #
 event-fields: eventtype
-subjects-min: 1 # min size for subject cloud, too many terms = slow load time!
-subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
+event-min: 1 # min size for subject cloud, too many terms = slow load time!
+event-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
 ##########
 # POSTERTYPE PAGE
 #
 poster-fields: postertype 
-subjects-min: 1 # min size for subject cloud, too many terms = slow load time!
-subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
+poster-min: 1 # min size for subject cloud, too many terms = slow load time!
+poster-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
 ##########
 # LOCATIONS PAGE
