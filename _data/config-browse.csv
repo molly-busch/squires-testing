@@ -1,8 +1,8 @@
 field,display_name,btn,hidden,sort_name
-title,Title,,
-eventtype,Event Type,
-eventlocation,Event Location,
-postertype,Poster Type,
-posterdescription,Poster Description
+title,Title,,,
+eventtype,Event Type,,,
+eventlocation,Event Location,,,
+postertype,Poster Type,,,
+posterdescription,Poster Description,,,
 eventcontributor,,,true,
 eventorganizer,,,true,
