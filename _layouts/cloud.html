@@ -17,6 +17,14 @@ layout: page
     {% assign fields = site.data.theme.subjects-fields %}
     {% assign min = site.data.theme.subjects-min | default: 1 %}
     {% assign stopwords = site.data.theme.subjects-stopwords %}
+{%- if page.cloud-fields == "site.data.theme.event-fields" -%}
+    {% assign fields = site.data.theme.event-fields %}
+    {% assign min = site.data.theme.event-min | default: 1 %}
+    {% assign stopwords = site.data.theme.event-stopwords %}
+{%- if page.cloud-fields == "site.data.theme.poster-fields" -%}
+    {% assign fields = site.data.theme.poster-fields %}
+    {% assign min = site.data.theme.poster-min | default: 1 %}
+    {% assign stopwords = site.data.theme.poster-stopwords %}
 {%- elsif page.cloud-fields == "site.data.theme.locations-fields" -%}
     {% assign fields = site.data.theme.locations-fields %}
     {% assign min = site.data.theme.locations-min | default: 1 %}
