@@ -2,10 +2,9 @@
 title: Poster Type
 layout: cloud
 permalink: /postertype.html
-# Default subject page is configured in "_data/theme.yml"
-# leave cloud-fields as "site.data.theme.poster-fields"
-# a cloud visualization will be added below the content in this file
-cloud-fields: site.data.theme.poster-fields
+cloud-fields: postertype
+cloud-min: 1
+cloud-stopwords:
 ---
 
 ## Browse Poster Type
