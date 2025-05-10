@@ -1,5 +1,3 @@
-***[CollectionBuilder-GH](https://collectionbuilding.github.io/gh/)
-
 ---
 title: VT Performing Groups
 layout: page
