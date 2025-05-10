@@ -24,6 +24,7 @@ This page contains information about Virignia Tech current and past musical perf
 
    New River Valley Symphony is a community and university based orchestra that invites participation from students, faculty, and members of the community [(New River Valley)](https://www.nextthreedays.com/OrganizationListing.cfm?o=110). It is unclear is group is still active at Virginia Tech as last publication on the group was from 2017 on the school's new site [(Caldwell 2017)](https://www.vt.edu/campus-life/clubs-organizations-involvement.html). 
 
+{% include feature/card.html header="New River Valley Symphony" text="This is an example poster for a New River Valley Symphony performance." objectid="sqi_po_00217_001" width="50" centered=true %}
 
 ## REFERENCES
 Caldwell, Willie. (2017, Feb. 1) New River Valley Symphony Orchestra concert offers opportunity to showcase cellist’s talent. (n.d.). Virginia Tech News | Virginia Tech. https://news.vt.edu/articles/2017/01/sopa-nrvsalexfowler.html
