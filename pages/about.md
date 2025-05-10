@@ -12,6 +12,9 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
+## About the Organization
+  The Central Virginia Theatre Association is a local organization dedicated to preserving the history of theatre throughout Central Virginia. This site is a prototype digital library to host posters related to performances throughout the region, featuring a sample of posters from performances at Virginia Tech.
+
 ## About the Collection
 
   The collection consists of digitized posters for performances that took place on Virginia Tech’s campus. The collection is not limited to student and school productions, but also posters for regional performing arts groups that visited the campus. 
@@ -27,6 +30,8 @@ credits: true
 Molly Busch
 
 Sarah Silva is a metadata enthusiast and is especially interested in how metadata contributes to discovery. 
+
+## About the Site
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
