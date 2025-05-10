@@ -2,8 +2,9 @@ display_name,stub,dropdown_parent
 Home,/
 About,/about.html
 Browse,/browse.html
-Data Cloud,/subjects.html
+Poster Description,/subjects.html
 Event Type,/eventtype.html
+Poster Type,/postertype.html
 VT Performing Groups,/page.html
 Locations,/locations.html
 Data,/data.html
