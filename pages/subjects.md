@@ -8,7 +8,7 @@ permalink: /subjects.html
 cloud-fields: site.data.theme.subjects-fields
 ---
 
-## Browse Event Type and Poster Descriptors
+## Browse Poster Descriptions
 
-Use this word cloud visualization to browse event type and poster description terms.
+Use this word cloud visualization to browse poster description terms.
 Word size is determined by frequency and all words link to a corresponding collection search.
