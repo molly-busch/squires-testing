@@ -2,7 +2,7 @@
 # find and count unique subjects used in the metadata
 ---
 {%- if site.data.theme.subjects-fields -%}
-{%- assign cloud-fields = site.data.theme.subjects-fields | split: ";" -%}
+{%- assign cloud-fields = site.data.theme.description-fields | split: ";" -%}
 {% comment %} Capture all cloud terms {% endcomment %} 
 {%- assign raw-terms = "" -%}
 {%- for c in cloud-fields -%}
