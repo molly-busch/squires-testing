@@ -16,11 +16,15 @@ This page contains information about Virignia Tech current and past musical perf
 ## The Audubon Quartet
   This classical string, quartet group started in 1974 at Marywood College (Scranton, PA) and Virginia Tech (Blacksburg, VA). The group had international acclaim and performed for Jimmy Carter at the White House in 1997 [(Wikipedia 2025)](https://en.wikipedia.org/wiki/Audubon_Quartet). The last concert for this group was performed in August 2011 at the Chautauqua Institution [(Wikipedia 2025)](https://en.wikipedia.org/wiki/Audubon_Quartet).
 
+{% include index/carousel.html title="Audubon Quartet" %}
+
 
 ##REFERENCES
+Caldwell, Willie. (2017, Feb. 1) New River Valley Symphony Orchestra concert offers opportunity to showcase cellist’s talent. (n.d.). Virginia Tech News | Virginia Tech. https://news.vt.edu/articles/2017/01/sopa-nrvsalexfowler.html
+
 Wikipedia contributors. (2025, February 15). Audubon Quartet. Wikipedia. https://en.wikipedia.org/wiki/Audubon_Quartet
 
-{% include index/carousel.html title="Audubon Quartet" %}
+
 
 ## Explore More Event Contributors
 {% include feature/cloud.html fields="eventcontributor;eventorganizer" min=1 %}
