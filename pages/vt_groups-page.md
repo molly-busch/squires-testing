@@ -19,7 +19,7 @@ This page contains information about Virignia Tech current and past musical perf
 {% include index/carousel.html title="Audubon Quartet" %}
 
 
-##REFERENCES
+## REFERENCES
 Caldwell, Willie. (2017, Feb. 1) New River Valley Symphony Orchestra concert offers opportunity to showcase cellist’s talent. (n.d.). Virginia Tech News | Virginia Tech. https://news.vt.edu/articles/2017/01/sopa-nrvsalexfowler.html
 
 Wikipedia contributors. (2025, February 15). Audubon Quartet. Wikipedia. https://en.wikipedia.org/wiki/Audubon_Quartet
