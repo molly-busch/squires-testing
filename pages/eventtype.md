@@ -2,10 +2,9 @@
 title: Event Type
 layout: cloud
 permalink: /eventtype.html
-# Default subject page is configured in "_data/theme.yml"
-# leave cloud-fields as "site.data.theme.event-fields"
-# a cloud visualization will be added below the content in this file
-cloud-fields: site.data.theme.event-fields
+cloud-fields: eventtype
+cloud-min: 1
+cloud-stopwords:
 ---
 
 ## Browse Event Type
