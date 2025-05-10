@@ -1,5 +1,5 @@
 ---
-title: Data Cloud
+title: Event Type
 layout: cloud
 permalink: /eventtype.html
 # Default subject page is configured in "_data/theme.yml"
