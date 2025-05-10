@@ -4,3 +4,5 @@ eventtype,Event Type,
 eventlocation,Event Location,
 postertype,Poster Type,
 posterdescription,Poster Description
+eventcontributor,,,true,
+eventorganizer,,,true,
