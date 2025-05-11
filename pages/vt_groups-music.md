@@ -3,7 +3,7 @@ title: VT Music Groups
 layout: page
 permalink: /page.html
 ---
-## Virginia Tech Groups - Music
+# Virginia Tech Groups - Music
 This page contains information about Virignia Tech current and past music groups that started at the university. 
 
 ## The University Jazz Ensemble
@@ -26,7 +26,7 @@ This page contains information about Virignia Tech current and past music groups
 
 {% include feature/card.html header="New River Valley Symphony" text="This is an example poster for a New River Valley Symphony performance." objectid="sqi_po_00217_001" width="25" centered=true %}
 
-## REFERENCES
+### References
 Caldwell, Willie. (2017, Feb. 1) New River Valley Symphony Orchestra concert offers opportunity to showcase cellist’s talent. (n.d.). Virginia Tech News | Virginia Tech. https://news.vt.edu/articles/2017/01/sopa-nrvsalexfowler.html
 
 Wikipedia contributors. (2025, February 15). Audubon Quartet. Wikipedia. https://en.wikipedia.org/wiki/Audubon_Quartet
