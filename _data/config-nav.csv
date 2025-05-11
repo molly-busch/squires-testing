@@ -5,7 +5,8 @@ Browse,/browse.html
 Poster Description,/subjects.html
 Event Type,/eventtype.html
 Poster Type,/postertype.html
-VT Performing Groups,/page.html
+VT Performing Groups,,
+Music Groups,/page.html,VT Performing Groups
 Locations,/locations.html
 Data,/data.html
 
