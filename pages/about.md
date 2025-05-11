@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/assets/img/banner_2.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Organization;About the Collection;About the Team;About the Site" %}
 
 ## About the Organization
   The Central Virginia Theatre Association is a local organization dedicated to preserving the history of theatre throughout Central Virginia. This site is a prototype digital library to host posters related to performances throughout the region, featuring a sample of posters from performances at Virginia Tech.
