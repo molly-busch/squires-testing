@@ -29,7 +29,8 @@ credits: true
 
 Molly Busch
 
-{% include feature/image.html objectid="propic" width="25" %}
+{% include feature/image.html objectid="propic.jpg" width="25" alt="Sarah E. Silva" %}
+
 Sarah Silva is a metadata enthusiast and is especially interested in how metadata contributes to discovery. 
 
 
