@@ -1,10 +1,11 @@
 display_name,stub,dropdown_parent
 Home,/
 About,/about.html
-Browse,/browse.html
-Poster Description,/subjects.html
-Event Type,/eventtype.html
-Poster Type,/postertype.html
+Browse All,/browse.html
+Browse By,,
+Poster Description,/subjects.html,Browse By
+Event Type,/eventtype.html,Browse By
+Poster Type,/postertype.html,Browse By
 VT Performing Groups,,
 Music Groups,/page.html,VT Performing Groups
 Locations,/locations.html
