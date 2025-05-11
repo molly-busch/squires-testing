@@ -1,10 +1,10 @@
 ---
-title: VT Performing Groups
+title: VT Music Groups
 layout: page
 permalink: /page.html
 ---
-## Virginia Tech Performing Groups
-This page contains information about Virignia Tech current and past musical performing groups that started at the university. 
+## Virginia Tech Groups - Music
+This page contains information about Virignia Tech current and past music groups that started at the university. 
 
 ## The University Jazz Ensemble
   In the colection we have four posters for [Virginia Tech's group Jazz Ensembles](https://sopa.vt.edu/future-students/undergraduate-programs/Music/music-ensembles/jazz-ensembles.html). On the posters you wil see they are referred to as the University Jazz Ensemble and have featured notable jazz artists who have performed or lectured classes at Virginia Tech. The group primarily performs big band literature, past and contemporary, and will showcase new works from modern composers.
