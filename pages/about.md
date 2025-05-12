@@ -29,7 +29,7 @@ credits: true
 
 {% include feature/image.html objectid="/objects/mollyb2.jpg" width="25"%}
 
-Molly Busch is a gradaute student specializing in digital collection management and creation.
+Molly Busch is a gradaute student specializing in digital collection management.
 
 {% include feature/image.html objectid="/objects/propic.jpg" width="25" alt="Sarah E. Silva" %}
 
