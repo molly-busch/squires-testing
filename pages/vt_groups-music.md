@@ -7,7 +7,7 @@ permalink: /page.html
 This page contains information about Virignia Tech current and past music groups that started at the university. 
 
 ## The University Jazz Ensemble
-  In the colection we have four posters for [Virginia Tech's group Jazz Ensembles](https://sopa.vt.edu/future-students/undergraduate-programs/Music/music-ensembles/jazz-ensembles.html). On the posters you wil see they are referred to as the University Jazz Ensemble and have featured notable jazz artists who have performed or lectured classes at Virginia Tech. The group primarily performs big band literature, past and contemporary, and will showcase new works from modern composers.
+  In the collection we have four posters for [Virginia Tech's group Jazz Ensembles](https://sopa.vt.edu/future-students/undergraduate-programs/Music/music-ensembles/jazz-ensembles.html). On the posters you will see they are referred to as the University Jazz Ensemble and have featured notable jazz artists who have performed or lectured at Virginia Tech. The group primarily performs big band literature, past and contemporary, and will showcase new works from modern composers.
 
   They can be listened to on [Sound Cloud](https://soundcloud.com/vtjazz).
 {% include feature/card.html header="The University Jazz Ensemble" text="This is an example poster for a University Jazz Ensemble performance." objectid="sqi_po_00203_001" width="25" centered=true %}
@@ -22,7 +22,7 @@ This page contains information about Virignia Tech current and past music groups
 
 ## New River Valley Symphony
 
-   New River Valley Symphony is a community and university based orchestra that invites participation from students, faculty, and members of the community [(New River Valley)](https://www.nextthreedays.com/OrganizationListing.cfm?o=110). It is unclear is group is still active at Virginia Tech as last publication on the group was from 2017 on the school's new site [(Caldwell 2017)](https://www.vt.edu/campus-life/clubs-organizations-involvement.html). 
+   New River Valley Symphony is a community and university based orchestra that invites participation from students, faculty, and members of the community [(New River Valley)](https://www.nextthreedays.com/OrganizationListing.cfm?o=110). It is unclear if the group is still active at Virginia Tech as the last publication referring to the group was from 2017 on the school's new site [(Caldwell 2017)](https://www.vt.edu/campus-life/clubs-organizations-involvement.html). 
 
 {% include feature/card.html header="New River Valley Symphony" text="This is an example poster for a New River Valley Symphony performance." objectid="sqi_po_00217_001" width="25" centered=true %}
 
