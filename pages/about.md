@@ -23,7 +23,7 @@ credits: true
   
   The application profile developed for this collection is intended to describe the text and graphical content of the poster, rather than details regarding the performance being advertised. Please see document below for reference.
 
-{% include feature/pdf.html objectid="/objects/application_profile1.pdf" width="75" %}
+{% include feature/pdf.html objectid="/objects/Application-Profile-v2.pdf" width="75" %}
 
 ## About the Team
 
