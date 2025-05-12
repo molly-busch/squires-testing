@@ -27,11 +27,11 @@ credits: true
 
 ## About the Team
 
-{% include feature/image.html objectid="/objects/mollyb2.jpg" width="25"%}
+{% include feature/image.html objectid="/objects/mollyb2.jpg" width="25" caption="Molly Busch"%}
 
 Molly Busch is a gradaute student specializing in digital collection management.
 
-{% include feature/image.html objectid="/objects/propic.jpg" width="25" alt="Sarah E. Silva" %}
+{% include feature/image.html objectid="/objects/propic.jpg" width="25" caption="Sarah E. Silva" %}
 
 Sarah Silva is a metadata enthusiast and is especially interested in how metadata contributes to discovery. 
 
